@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"YONEX",
+        "price": 940,
+        "image": "badminton_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" FERCO",
+        "price": 500,
+        "image": "badminton_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"Li-ning ",
+        "price": 2840,
+        "image": "badminton_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"HUNDRED",
+        "price": 515,
+        "image": "badminton_image4.png"
+    }
+]

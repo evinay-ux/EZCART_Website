@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"COSCO",
+        "price": 809,
+        "image": "volleyball_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" NIVIA",
+        "price": 1049,
+        "image": "volleyball_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"SPARTAN ",
+        "price": 1205,
+        "image": "volleyball_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"MIKASA",
+        "price": 7890,
+        "image": "volleyball_image4.png"
+    }
+]

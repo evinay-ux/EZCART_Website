@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"BDM",
+        "price": 7350,
+        "image": "bat_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" SS",
+        "price": 5000,
+        "image": "bat_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"SG ",
+        "price": 4130,
+        "image": "bat_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"SPARTAN",
+        "price": 26900,
+        "image": "bat_image4.png"
+    }
+]

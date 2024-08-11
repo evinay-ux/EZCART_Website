@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"YONEX",
+        "price": 4889,
+        "image": "tennis_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" ARTENGO TR",
+        "price": 899,
+        "image": "tennis_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"HEAD ",
+        "price": 2899,
+        "image": "tennis_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"COSCO",
+        "price": 999,
+        "image": "tennis_image4.png"
+    }
+]

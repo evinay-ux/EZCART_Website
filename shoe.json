@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name":"PUMA",
+        "price": 1890,
+        "image": "shoe_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" NIKE",
+        "price": 3695,
+        "image": "shoe_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"REEBOK ",
+        "price": 2099,
+        "image": "shoe_image3.png"
+    },
+    {
+        "id": 4,
+        "name":" ADIDAS",
+        "price": 2579,
+        "image": "shoe_image4.png"
+    }
+    
+]
+
+
+
+
+
+
+
+
+

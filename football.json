@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"VECTOR",
+        "price": 616,
+        "image": "football_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" COSCO",
+        "price": 487,
+        "image": "football_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"NIVIA ",
+        "price": 299,
+        "image": "football_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"AAMAKA",
+        "price": 499,
+        "image": "football_image4.png"
+    }
+]

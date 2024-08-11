@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"SPALDING",
+        "price": 725,
+        "image": "basketball_image1.png"
+    },
+    {
+        "id": 2,
+        "name":" WILSON",
+        "price": 1350,
+        "image": "basketball_image2.png"
+    },
+    {
+        "id": 3,
+        "name":"COSCO ",
+        "price": 769,
+        "image": "basketball_image3.png"
+    },
+    {
+        "id": 4,
+        "name":"NIVIA",
+        "price": 690,
+        "image": "basketball_image4.png"
+    }
+]
